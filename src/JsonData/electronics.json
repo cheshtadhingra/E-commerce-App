@@ -1,0 +1,157 @@
+{
+    "Laptop":[
+      {
+          "title":"Lenovo",
+          "Description":"Intel Core i7 8th Gen",
+          "amount":100,
+          
+          "Image":"https://rukminim1.flixcart.com/image/312/312/k3xcdjk0pkrrdj/computer/b/j/y/acer-na-laptop-original-imafjqffcnbrtxy9.jpeg?q=70"
+      },
+      {
+          "title":"Dell",
+          "Description":"Intel UHD Graphics 620",
+          "amount":50,
+          "Image":"https://rukminim1.flixcart.com/image/312/312/k6fd47k0pkrrdj/computer/h/z/7/dell-inspiron-laptop-original-imafzf89nfqngbzt.jpeg?q=70"
+      },
+      {
+          "title":"HP",
+          "Description":"Quad Core, 1.8 GHz Clock Speed",
+          "amount":90,
+          "Image":"https://rukminim1.flixcart.com/image/312/312/kctf0cw0/computer/s/q/k/dell-original-imaftuvzyhyfmvzy.jpeg?q=70"
+      },
+      {
+          "title":"Asus",
+          "Description":"13.3 inches, 1920 x 1080 pixels",
+          "amount":70,
+          "Image":"https://rukminim1.flixcart.com/image/312/312/kae95e80/computer/q/w/a/hp-original-imafrzbfruxgg23e.jpeg?q=70"
+      },
+      {
+          "title":"Lenovo thinkpad",
+          "Description":"512 GB Hard Disk",
+          "amount":100,
+          "Image":"https://rukminim1.flixcart.com/image/312/312/kctf0cw0/computer/s/q/k/dell-original-imaftuvzyhyfmvzy.jpeg?q=70"
+      },
+      {
+          "title":"Dell latitude 3400",
+          "Description":"13.3 inches, 1920 x 1080 pixels",
+          "amount":80,
+          "Image":"https://rukminim1.flixcart.com/image/312/312/kctf0cw0/computer/s/q/k/dell-original-imaftuvzyhyfmvzy.jpeg?q=70"
+      }
+    ],
+    "Mobile":[
+      {
+          "title":"Samsung Galaxy M31s",
+          "Description":"MediaTek,64 GB,5 MP camera,Battery 2800 MAh",
+          "amount":100,
+          "Image":"https://rukminim1.flixcart.com/image/312/312/k8g8knk0/mobile/m/b/z/infinix-hot-9-x655d-original-imafqgr9j7gh32zq.jpeg?q=70"
+      },
+      {
+          "title":"Oneplus 8",
+          "Description":"MediaTek,64 GB,5 MP camera,Battery 2800 MAh",
+          "amount":50,
+          "Image":"https://rukminim1.flixcart.com/image/312/312/kcjexe80/mobile/u/k/j/realme-6i-rmx2002-original-imaftnfyhwxdruv2.jpeg?q=70"
+      },
+      {
+          "title":"Samsung galaxy note20",
+          "Description":"MediaTek,64 GB,5 MP camera,Battery 2800 MAh",
+          "amount":90,
+          "Image":"https://rukminim1.flixcart.com/image/312/312/k8g8knk0/mobile/h/b/h/infinix-hot-9-x655d-original-imafqgeuekzgtdty.jpeg?q=70"
+      },
+      {
+          "title":"Redmi note 9 pro",
+          "Description":"MediaTek,64 GB,5 MP camera,Battery 2800 MAh",
+          "amount":70,
+          "Image":"https://rukminim1.flixcart.com/image/312/312/k65d18w0pkrrdj/mobile/r/x/z/realme-5i-rmx2030-original-imafnsx5pakdfdpb.jpeg?q=70"
+      },
+      {
+          "title":"Redmi note 8",
+          "Description":"MediaTek,64 GB,5 MP camera,Battery 2800 MAh",
+          "amount":100,
+          "Image":"https://rukminim1.flixcart.com/image/312/312/k8ddoy80/mobile/n/m/w/realme-narzo-10-rmx2040-original-imafqectbhfgxutg.jpeg?q=70"
+      },
+      {
+          "title":"Apple i phone 11",
+          "Description":"MediaTek,64 GB,5 MP camera,Battery 2800 MAh",
+          "amount":80,
+          "Image":"https://rukminim1.flixcart.com/image/312/312/kcauaa80/mobile/c/w/a/poco-m2-pro-mzb9625in-original-imaftga2ytmnt7ac.jpeg?q=70"
+      }
+    ],
+    "AC":[
+      {
+          "title":"LG LW8016ER",
+          "Description":"1 ton 3-star",
+          "amount":100,
+          "Image":"https://rukminim1.flixcart.com/image/312/312/k5wse4w0/air-conditioner-new/d/y/h/ar12tv3hmwk-1-split-dual-inverter-samsung-original-imafzhfvqfyjuw5b.jpeg?q=70"
+      },
+      {
+          "title":"Daikin",
+          "Description":"1.5 ton 5-star",
+          "amount":50,
+          "Image":"https://rukminim1.flixcart.com/image/312/312/kcz4rrk0/air-conditioner-new/9/b/5/12k-3-star-santis-pro-cls-r32-mf001-fixed-speed-r32-odu-mf001-1-original-imaftzfytkvzaguh.jpeg?q=70"
+      },
+      {
+          "title":"Samsung",
+          "Description":"1 ton 3-star",
+          "amount":90,
+          "Image":"https://rukminim1.flixcart.com/image/312/312/k6qsn0w0/air-conditioner-new/5/s/w/ar12tv3jfmcnna-ar12tv3jfmcxna-1-split-dual-inverter-samsung-original-imafp4uhc7qpudxz.jpeg?q=70"
+      },
+      {
+          "title":"LG",
+          "Description":"2 ton 5-star",
+          "amount":70,
+          "Image":"https://rukminim1.flixcart.com/image/312/312/jws547k0/air-conditioner-new/h/g/y/153v-dzv-r32-1-2-split-inverter-voltas-original-imafhbzugnnxkqfs.jpeg?q=70"
+      },
+      {
+          "title":"Voltas",
+          "Description":"1.5 ton 3-star",
+          "amount":100,
+          "Image":"https://rukminim1.flixcart.com/image/312/312/jws547k0/air-conditioner-new/h/g/y/153v-dzv-r32-1-2-split-inverter-voltas-original-imafhbzugnnxkqfs.jpeg?q=70"
+      },
+      {
+          "title":"General",
+          "Description":"2 ton 5-star",
+          "amount":80,
+          "Image":"https://rukminim1.flixcart.com/image/312/312/kd4uj680/air-conditioner-new/e/w/p/1-5t-magicool-pro-5s-copr-inv-mps-1-5-split-whirlpool-inverter-original-imafu44ghmq8vdhg.jpeg?q=70"
+      }
+    ],
+    "Refridgerator":[
+      {
+          "title":"Lg",
+          "Description":"Single door 2-star",
+          "amount":100,
+          "Image":"https://rukminim1.flixcart.com/image/312/312/k4ss2a80/refrigerator-new/n/x/b/rr19t241bse-nl-2-samsung-original-imafnmkcsmkchra8.jpeg?q=70"
+      },
+      {
+          "title":"Samsung",
+          "Description":"triple door 2-star",
+          "amount":50,
+          "Image":"https://rukminim1.flixcart.com/image/312/312/k4ss2a80/refrigerator-new/j/w/v/rr21t2h2wcu-hl-5-samsung-original-imafnmkbyzev8szv.jpeg?q=70"
+      },
+      {
+          "title":"Godrej",
+          "Description":"two door 2-star",
+          "amount":90,
+          "Image":"https://rukminim1.flixcart.com/image/312/312/k4ss2a80/refrigerator-new/w/4/s/rt28t3032se-hl-2-samsung-original-imafnmkbufvsj4df.jpeg?q=70"
+      },
+      {
+          "title":"Samsung 44001",
+          "Description":"Single door 2-star",
+          "amount":70,
+          "Image":"https://rukminim1.flixcart.com/image/312/312/k7531jk0/refrigerator-new/4/9/d/hef-25tgs-2-haier-original-imafpfxttysk2hep.jpeg?q=70"
+      },
+      {
+          "title":"Godrej",
+          "Description":"two door 2-star",
+          "amount":100,
+          "Image":"https://rukminim1.flixcart.com/image/312/312/k4ss2a80/refrigerator-new/k/r/n/rt37t4513s8-hl-3-samsung-original-imafnmkcaynxpfar.jpeg?q=70"
+      },
+      {
+          "title":"LG",
+          "Description":"triple door 2-star",
+          "amount":80,
+          "Image":"https://rukminim1.flixcart.com/image/312/312/k7285u80/refrigerator-new/x/j/e/gl-d241abcy-4-lg-original-imafpe2kdhbssd8y.jpeg?q=70"
+      }
+    ]
+      
+  }
+  

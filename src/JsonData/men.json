@@ -1,0 +1,156 @@
+{
+    "Shirts":[
+      {
+          "title":"Tommy Hilfiger",
+          "Description":"Men Regular Fit shirt",
+          "amount":100,
+          "Image":"https://rukminim1.flixcart.com/image/495/594/kdxfc7k0-0/shirt/n/n/0/m-32907-0135-levi-s-original-imafuq3ggfzr6g4w.jpeg?q=50"
+      },
+      {
+          "title":"Levi's",
+          "Description":"Men Regular slim Fit shirt",
+          "amount":50,
+          "Image":"https://rukminim1.flixcart.com/image/495/594/kd4uj680/shirt/e/0/9/l-mss20csh093a-metronaut-original-imafu4fdnwvwdazh.jpeg?q=50"
+      },
+      {
+          "title":"Metronaut",
+          "Description":"Men Regular solid Fit shirt",
+          "amount":90,
+          "Image":"https://rukminim1.flixcart.com/image/495/594/kdxfc7k0-0/shirt/9/g/a/m-32907-0142-levi-s-original-imafuq3whzuahkyj.jpeg?q=50"
+      },
+      {
+          "title":"HighLander",
+          "Description":"Men Regular slim Fit shirt",
+          "amount":70,
+          "Image":"https://rukminim1.flixcart.com/image/495/594/k908qkw0/shirt/y/c/z/40-ar818303-arihant-original-imafqvrrewuvp84t.jpeg?q=50"
+      },
+      {
+          "title":"Reebok Classics",
+          "Description":"Men Regular solid Fit shirt",
+          "amount":100,
+          "Image":"https://rukminim1.flixcart.com/image/495/594/kd7pevk0/shirt/z/c/v/xl-21378-0066-levi-s-original-imafu5rkaasn3vgz.jpeg?q=50"
+      },
+      {
+          "title":"RVero Lie",
+          "Description":"Men Regular slim Fit shirt",
+          "amount":80,
+          "Image":"https://rukminim1.flixcart.com/image/495/594/k908qkw0/shirt/9/v/v/40-ar818304-arihant-original-imafqvrrqqpz66xc.jpeg?q=50"
+      }
+    ],
+    "Bottoms":[
+      {
+          "title":"Metronaut",
+          "Description":"Full sleeve solid women sweatshirt",
+          "amount":100,
+          "Image":"https://rukminim1.flixcart.com/image/612/612/k0h12fk0/trouser/v/j/z/32-6chco-sam-jack-original-imafk9k2cykhy7wj.jpeg?q=70"
+      },
+      {
+          "title":"Levi's",
+          "Description":"Jogger Fit women blue jean",
+          "amount":50,
+          "Image":"https://rukminim1.flixcart.com/image/612/612/k51cpe80pkrrdj/trouser/y/w/w/30-blue-luxbl-inspire-original-imafh3y3qh3e78wn.jpeg?q=70"
+      },
+      {
+          "title":"Metronaut ",
+          "Description":"Skinny Women jean",
+          "amount":90,
+          "Image":"https://rukminim1.flixcart.com/image/612/612/k2jbyq80/shirt/2/z/r/44-clacairodarkblue-cotton-leaf-apparels-original-imafhv95fxnqqnby.jpeg?q=70"
+      },
+      {
+          "title":"Metronaut",
+          "Description":"Regular women blue jean",
+          "amount":70,
+          "Image":"https://rukminim1.flixcart.com/image/612/612/k51cpe80pkrrdj/trouser/d/w/5/34-beige-luxbg-inspire-original-imafh8caqzw5hyce.jpeg?q=70"
+      },
+      {
+          "title":"Levi's",
+          "Description":"Regular women blue jean",
+          "amount":100,
+          "Image":"https://rukminim1.flixcart.com/image/612/612/jteoosw0/trouser/c/z/9/40-fkt-cf-ol-sky-vogue-original-imafequnav6gbqu6.jpeg?q=70"
+      },
+      {
+          "title":"Metronaut",
+          "Description":"slim Women Denim",
+          "amount":80,
+          "Image":"https://rukminim1.flixcart.com/image/612/612/k2jbyq80/shirt/f/6/r/38-clacairolavender-cotton-leaf-apparels-original-imafhv95ybhtzdga.jpeg?q=70"
+      }
+    ],
+    "Shoes":[
+      {
+          "title":"Asian",
+          "Description":"Running Shoes for men",
+          "amount":100,
+          "Image":"https://rukminim1.flixcart.com/image/495/594/k5vcya80pkrrdj/shoe/y/r/c/6-mrj1346-aadi-original-imafzdzekstdyvuq.jpeg?q=50"
+      },
+      {
+          "title":"Bootco ",
+          "Description":"Casual Shoes for men",
+          "amount":50,
+          "Image":"https://rukminim1.flixcart.com/image/495/594/jubjte80/shoe/p/p/r/cb-414-445-10-pexlo-brown-blue-original-imafbhahzpuhwxee.jpeg?q=50"
+      },
+      {
+          "title":"Aroom ",
+          "Description":"Running Shoes for men",
+          "amount":90,
+          "Image":"https://rukminim1.flixcart.com/image/495/594/kajywsw0/shoe/f/n/8/shoes415-7-tr-tan-original-imafs3sgynpzywyt.jpeg?q=50"
+      },
+      {
+          "title":"LooksFootWear",
+          "Description":"Casual Shoes for men",
+          "amount":70,
+          "Image":"https://rukminim1.flixcart.com/image/495/594/k3lwuq80/shoe/z/v/h/mrj1324-6-aadi-black-original-imafmzfcjcjytgcf.jpeg?q=50"
+      },
+      {
+          "title":"Myra",
+          "Description":"Running Shoes for men",
+          "amount":100,
+          "Image":"https://rukminim1.flixcart.com/image/495/594/kcp4osw0/shoe/f/h/o/lo5201-layasa-green-original-imaftrtgpmv2ewb9.jpeg?q=50"
+      },
+      {
+          "title":"BkDream",
+          "Description":"Casual Shoes for men",
+          "amount":80,
+          "Image":"https://rukminim1.flixcart.com/image/495/594/k7ksvww0/shoe/w/y/w/art-ca146-9-vellinto-tan-original-imafprzy29e8cakc.jpeg?q=50"
+      }
+    ],
+    "Accessories":[
+      {
+          "title":"Fastrack",
+          "Description":"Analog Digital Black dial strap watch for men",
+          "amount":100,
+          "Image":"https://rukminim1.flixcart.com/image/495/594/jw84ya80/watch/m/d/z/dk-american-style-rahee-original-imafgyk4sgzgxzbx.jpeg?q=50"
+      },
+      {
+          "title":"Sonata ",
+          "Description":"Analog Digital Black dial strap watch for men",
+          "amount":50,
+          "Image":"https://rukminim1.flixcart.com/image/495/594/watch/m/r/c/rws0004-redux-original-imaergxhnp8khxyc.jpeg?q=50"
+      },
+      {
+          "title":"Limestone ",
+          "Description":"Analog Digital Black dial strap watch for men",
+          "amount":90,
+          "Image":"https://rukminim1.flixcart.com/image/495/594/kavefm80/watch/f/f/u/fz-wl10-lr17-lorem-original-imafscf9k2vh7ktq.jpeg?q=50"
+      },
+      {
+          "title":"Luxar",
+          "Description":"Analog Digital Black dial strap watch for men",
+          "amount":70,
+          "Image":"https://rukminim1.flixcart.com/image/495/594/jz05rww0/watch/v/k/m/rock1098-rock-original-imafghz53zgcghws.jpeg?q=50"
+      },
+      {
+          "title":"Rado",
+          "Description":"Analog Digital Black dial strap watch for men",
+          "amount":100,
+          "Image":"https://rukminim1.flixcart.com/image/495/594/kdkkdjk0-0/watch/c/f/y/new-blue-photo-mahadev-newman-original-imafug8t6zsbadau.jpeg?q=50"
+      },
+      {
+          "title":"Timex",
+          "Description":"Analog Digital Black dial strap watch for men",
+          "amount":80,
+          "Image":"https://rukminim1.flixcart.com/image/495/594/k6l2vm80/watch/q/w/f/vr-162-varniraj-enterprise-original-imafdf7ee5zjg4gs.jpeg?q=50"
+      }
+    ]
+      
+  }
+  
