@@ -41,4 +41,4 @@ npm install
 ##### Step 6:
 npm start
 
-Project will be running on localhost:3000
+Project will be running on localhost:3000 or localhost:3001
